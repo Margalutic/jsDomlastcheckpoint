@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+ 
+    flex-direction: column;
+    
+}
+.card{
+    width: 350px;
+    height: 200px;
+    background-color: #AFAFAF;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 2px;
+    border: 1px solid #AFAFAF;
+}
+.logo{
+   
+    width: 60px;
+    height: 40px;
+    top: 20px;
+    left: 20px;
+    background-image: url();
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.card_number{
+   
+    width: 300px;
+    height: 30px;
+    font-size: 30px;
+}
+.cardhld{
+    
+    width: 200px;
+    height: 20px;
+    font-size: 20px;
+}
+.exp_date{
+   
+    width: 50px;
+    height: 20px;
+   
+    
+}
+.system{
+ 
+    height: 50px;
+    width: 60px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.block{
+    width: 177px;
+}
+input{
+    width: 170px;
+}
+select{
+    width: 177px;
+}
+.date{
+    width: 173px;
+}
+.item{
+    width: 200px;
+}
+table{
+    margin-top: 10px;
+    text-align: center;
+}
+td{
+    width: 200px;
+    border: double blueviolet;
+    padding: 5px;
+}
